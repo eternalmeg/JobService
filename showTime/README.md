@@ -1,14 +1,4 @@
-# Cinema-City
 
-Cinema-City is a Single Page Application about sharing favorite movies and comment it.
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
-The application will automatically reload if you change any of the source files.
-
-# Server
 
 The application uses REST-api for Angular course in SoftUni.
 For more information read the README.md in folder "server".
